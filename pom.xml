@@ -10,7 +10,6 @@
     <version>1.0-SNAPSHOT</version>
 
     <modules>
-        <module>springboot_hello</module>
         <module>nf_eureka_server</module>
         <module>nf_hello_web</module>
     </modules>
