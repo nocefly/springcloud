@@ -12,6 +12,7 @@
     <modules>
         <module>nf_eureka_server</module>
         <module>nf_hello_web</module>
+        <module>nf_ribbon_web</module>
     </modules>
 
     <properties>
